@@ -1,0 +1,33 @@
+body {
+  background-color: #f7685b;
+
+}
+.head{
+    color: darkblue;
+}
+#bglime{
+    background-color: lime;
+}
+.highlight{
+    color: red;
+}
+p{
+    color: white;
+}
+#para{
+    color: green;
+    font-size: 30px;
+}
+#highlight2{
+    color: black;
+}
+text{
+    font-size: 30px;
+    font-style: italic;
+}
+span [title="google"]{
+    color: red;
+}
+span [title="pinterest"]{
+    color: red;
+}
